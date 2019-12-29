@@ -46,3 +46,5 @@ Are there differences across years? What do the plots tell you about any relatio
  - Find the top 5 countries for 2014 in terms of GDP per capita; create a dataframe to look at 10-year trends in gdp per capita for those 5 countries. Use a seaborn facet grid for this.
 ![image](https://user-images.githubusercontent.com/52726447/71551846-21700e80-29b6-11ea-9ce1-2b4ba5e88f03.png)
 
+As a bonus I also chose another dataset from the UN database to perform the same analytical steps to. I chose a dataset about methane emissions:
+![image](https://user-images.githubusercontent.com/52726447/71551947-837d4380-29b7-11ea-9c48-701a79d75f65.png)
